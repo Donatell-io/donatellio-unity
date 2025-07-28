@@ -11,8 +11,8 @@
       "url": "https://github.com/Donatell-io/donatellio-unity"
     },
     "dependencies": {
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git"
+        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.10",
+        "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#6.13.0"
     }
   }
   
