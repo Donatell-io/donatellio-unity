@@ -1,3 +1,4 @@
+This is the Unity plugin for Donatellio.
 
 # What is Donatellio?
 
@@ -10,7 +11,7 @@ You can learn more about Donatellio here: [donatell.io](https://donatell.io/)
   <img alt="Screenshot of Plugin" src="Images/screenshot2.png" height="500px" style="display:inline-block;" />
 </p>
 
-# How do I install Donatellio?
+# How do I install the Unity plugin for Donatellio?
 
 Install as GIT dependency via Package Manager
 
@@ -39,7 +40,7 @@ https://github.com/Donatell-io/donatellio-unity.git
 4. Reopen Unity project in Unity Editor
 
 
-# How do I use Donatellio?
+# How do I use Donatellio in Unity?
 
 Once you have installed Donatellio and the package has compiled with no errors, you should see 'Donatellio' under the 'Window' tab in the Application toolbar. Once you have the Donatellio window open, login with your account information. You can view all your past assets and projects in the Showcase tab and create new assets using the Image and Model tab.
 
