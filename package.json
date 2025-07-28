@@ -1,0 +1,14 @@
+{
+    "name": "com.donatellio.donatellio",
+    "displayName": "Donatellio",
+    "version": "1.0.0",
+    "unity": "2021.1",
+    "description": "A Unity plugin for Donatell.io, a platform for generating and managing 3D models.",
+    "keywords": ["editor","tools","donatellio"],
+    "author": {
+      "name": "Muse Gimicael",
+      "email": "support@donatell.io",
+      "url": "https://github.com/Donatell-io/donatellio-unity"
+    }
+  }
+  

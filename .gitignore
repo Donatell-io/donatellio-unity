@@ -1,0 +1,6 @@
+*.cs
+*.csproj
+*.sln
+*.cs.meta
+*.meta
+**/*.asmdef
