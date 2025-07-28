@@ -4,6 +4,6 @@
 *.cs.meta
 **/*.asmdef
 **/*.asmdef.meta
-Editor/API/
-Editor/Components/
-Editor/Pages/
+Editor/API*
+Editor/Components*
+Editor/Pages*
