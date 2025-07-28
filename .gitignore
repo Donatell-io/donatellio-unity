@@ -3,6 +3,7 @@
 *.sln
 *.cs.meta
 **/*.asmdef
+**/*.asmdef.meta
 Editor/API/
 Editor/Components/
 Editor/Pages/
