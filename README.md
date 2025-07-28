@@ -19,7 +19,15 @@ Install as GIT dependency via Package Manager
 
 1. Open Package Manager window (Window | Package Manager)
 2. Click `+` button on the upper-left of a window, and select "Add package from git URL..."
-3. Enter the following URL and click `Add` button
+3. Enter the following URLs in order and click `Add` button
+
+```
+https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.10
+```
+
+```
+https://github.com/atteneder/glTFast.git#com.atteneder.gltfast/6.13.0
+```
 
 ```
 https://github.com/Donatell-io/donatellio-unity.git
