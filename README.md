@@ -7,7 +7,7 @@ Donatellio is a platform that allows users to generate, customize, and texture 3
 You can learn more about Donatellio here: [donatell.io](https://donatell.io/)
 
 <p>
-  <img alt="Screenshot of Plugin" src="Images/screenshot1.png" height="500px" style="display:inline-block; margin-right:10px;" />
+  <img alt="Screenshot of Plugin" src="Images/screenshot1.png" height="500px" style="display:inline-block; margin-right:20px;" />
   <img alt="Screenshot of Plugin" src="Images/screenshot2.png" height="500px" style="display:inline-block;" />
 </p>
 
@@ -18,8 +18,11 @@ Install as GIT dependency via Package Manager
 #### Unity 2019.3 or newer
 
 1. Open Package Manager window (Window | Package Manager)
-2. Click `+` button on the upper-left of a window, and select "Add package from git URL..."
-3. Enter the following URLs in order and click `Add` button
+<img alt="Directions to open PackageManager" src="Images/PackageManagement.png" height="500px">
+2. Install 'Editor Coroutines' in the Unity Registry page.
+<img alt="Install Editor Coroutines Instructions" src="Images/EditorCoroutines.png" height="500px">
+3. Click `+` button on the upper-left of the window, and select "Add package from git URL..."
+4. Enter the following URLs in order and click `Add` button
 
 ```
 https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.10
@@ -32,8 +35,6 @@ https://github.com/atteneder/glTFast.git#com.atteneder.gltfast/6.13.0
 ```
 https://github.com/Donatell-io/donatellio-unity.git
 ```
-
-> **_NOTE:_** To install a concrete version you can specify the version by prepending #v{version} e.g. `#v1.0.4`. For more see [Unity UPM Documentation](https://docs.unity3d.com/Manual/upm-git.html).
 
 #### Unity 2019.2 or earlier
 
